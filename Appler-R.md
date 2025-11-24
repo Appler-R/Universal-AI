@@ -10,7 +10,7 @@ timezone: UTC+8
 
 ## Self-introduction
 
-AI 开发者, Qwen 实战派，看好Web3+ 模块化链
+AI 开发者, Qwen 实战派，看好Web3与模块化链
 (如 Zetchain)的下一代应用落地。
 
 ## Notes
@@ -18,7 +18,7 @@ AI 开发者, Qwen 实战派，看好Web3+ 模块化链
 <!-- Content_START -->
 # 2025-11-24
 <!-- DAILY_CHECKIN_2025-11-24_START -->
-# 2025-11-24
+
 
 ## 了解了一些基础知识
 
